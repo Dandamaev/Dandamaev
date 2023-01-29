@@ -5,6 +5,11 @@
 
 **Dandamaev/Dandamaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Contacts
+<a href="https://vk.com/dandamaevg">
+<i class="fa-brands fa-vk"></i>
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
