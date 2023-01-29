@@ -7,7 +7,7 @@
 
 ### Contacts
 <a target="_blank" href="tg://resolve?domain=dandamaev">
-<img width=32" src="https://img.icons8.com/fluency/512/telegram-app.png" /> Напиши в телеге
+<img width=32" src="https://img.icons8.com/color/512/telegram-app.png" /> Напиши в телеге
 </a>
 <br>
 <a target="_blank" href="https://vk.com/dandamaevg">
