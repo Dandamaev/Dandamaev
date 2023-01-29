@@ -7,13 +7,14 @@
 
 ### Contacts
 <a target="_blank" href="tg://resolve?domain=dandamaev">
-<img width=32" src="https://img.icons8.com/dusk/512/telegram-app.png" />
+<img width=32" src="https://img.icons8.com/dusk/512/telegram-app.png" /> Напиши в телеге
 </a>
 <a target="_blank" href="https://vk.com/dandamaevg">
-<img width="32" src="https://img.icons8.com/plasticine/512/vk-circled.png" />
+<img width="32" src="https://img.icons8.com/plasticine/512/vk-circled.png" /> Подружись в  
 </a>
+<br>
 <a target="_blank" href="mailto:dandamaev.g@yandex.ru">
-<img width="32" src="https://img.icons8.com/fluency/512/mail.png" />
+<img width="32" src="https://img.icons8.com/fluency/512/mail.png" /> Отправь письмо
 </a>
 
 <br>
