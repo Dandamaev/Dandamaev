@@ -8,7 +8,7 @@
 ### Contacts
 
 <a target="_blank" href="https://vk.com/dandamaevg">
-<img width="32" src="https://img.icons8.com/plasticine/512/vk-circled.png" />
+<img width="34" src="https://img.icons8.com/plasticine/512/vk-circled.png" />
 </a>
 <a target="_blank" href="https://t.me/dandamaev">
 <img width=32" src="https://img.icons8.com/color/512/telegram-app.png" />
