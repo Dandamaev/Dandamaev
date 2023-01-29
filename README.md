@@ -6,24 +6,17 @@
 **Dandamaev/Dandamaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Contacts
-<a target="blank" href="tg://resolve?domain=dandamaev">
+<a target="_blank" href="tg://resolve?domain=dandamaev">
 <img width=32" src="https://img.icons8.com/dusk/512/telegram-app.png" />
 </a>
-<a target="blank" href="https://vk.com/dandamaevg">
+<a target="_blank" href="https://vk.com/dandamaevg">
 <img width="32" src="https://img.icons8.com/plasticine/512/vk-circled.png" />
 </a>
-<a target="blank" href="mailto:dandamaev.g@yandex.ru">
+<a target="_blank" href="mailto:dandamaev.g@yandex.ru">
 <img width="32" src="https://img.icons8.com/fluency/512/mail.png" />
 </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+                                                                 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dandamaev.Dandamaev)
