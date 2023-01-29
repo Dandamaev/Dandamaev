@@ -10,6 +10,10 @@
 <img width="32" src="https://img.icons8.com/plasticine/512/vk-circled.png" />
 </a>
 
+<a target="blank" href="mailto:dandamaev.g@yandex.ru">
+<img width="32" src="https://img.icons8.com/fluency/512/mail.png" />
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
