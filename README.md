@@ -7,7 +7,7 @@
 
 ### Contacts
 <a target="_blank" href="https://vk.com/dandamaevg">
-<i class="fa-brands fa-vk"></i>
+<img width="32" src="https://img.icons8.com/plasticine/512/vk-circled.png" />
 </a>
 
 Here are some ideas to get you started:
