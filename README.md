@@ -11,9 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer working on various proj
 
 Let's connect! Here are the best ways to reach me:
 
-[![VK](https://img.icons8.com/plasticine/512/vk-circled.png)](https://vk.com/dandamaevg)
-[![Telegram](https://img.icons8.com/color/512/telegram-app.png)](https://t.me/dandamaev)
-[![Email](https://img.icons8.com/fluency/512/mail.png)](mailto:dandamaev.g@yandex.ru)
+
+[<img src="https://img.icons8.com/plasticine/512/vk-circled.png" alt="VK" width="24"/>](https://vk.com/dandamaevg)
+[<img src="https://img.icons8.com/color/512/telegram-app.png" alt="Telegram" width="24"/>](https://t.me/dandamaev)
+[<img src="https://img.icons8.com/fluency/512/mail.png" alt="Email" width="24"/>](mailto:dandamaev.g@yandex.ru)
+
 
 ---
 
