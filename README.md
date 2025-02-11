@@ -23,6 +23,8 @@ Let's connect! Here are the best ways to reach me:
 
 I'm always eager to work on new projects and improve my skills. Currently, I am diving into the world of OAuth and microservices architecture.
 
+I'm currently working on a project [**Atlas**](https://github.com/hse-atlas)
+
 Feel free to check out my work and let me know if you have any questions!
 
 📧 My email: [dandamaev.g@yandex.ru](mailto:dandamaev.g@yandex.ru)
