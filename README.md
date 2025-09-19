@@ -10,8 +10,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhzcDJwYTF6NTY3YTNjOTdrd3V4dDF2Y3NuNjg4ZnJxOXI2ZGNweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="200" align="right"/>
 </div>
 
-<li>🔭 Currently working on <a href="https://github.com/hse-atlas">Atlas</a> — an OAuth integration platform  </li>
-<li>🌱 Learning **Python / FastAPI**</li>
+<li>🔭 Currently, I am an intern at X5 Tech </li>
+<li>🌱 Learning <b>Python / FastAPI</b> </li>
 <li>🎯 Aiming to grow as a fullstack engineer</li>
 <li>💬 Always open to chat about goals, projects, or tech</li>
 <li>⚡ Fun fact: you're reading this — that's already a connection</li>
